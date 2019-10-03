@@ -1,0 +1,14 @@
+./report/kingKeltnerStrategy/ag-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/ag-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/al-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/al-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/au-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/au-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/cu-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/cu-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/ni-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/ni-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/pb-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/pb-min15-2009-03-27-2017-07-27--best-figure-push-on.csv
+./report/kingKeltnerStrategy/sn-min15-2009-03-27-2017-07-27--push_backtesting_report.csv
+./report/kingKeltnerStrategy/figure_trading_result/zn-min15-2009-03-27-2017-07-27--best-figure-push-on.csv

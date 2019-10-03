@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.out
+*.pyc
+*.save-failed
+*.csv

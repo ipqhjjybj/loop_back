@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1500434036 source:e:\quant\loopback01\loopback\loopback-minute-tb.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<vector>
+	<cmath>
+	<fstream>
+	<iostream>
+	"talib.h"
+	"TradingResult.h"
+	"AligatorStrategy.h"
+	"LivermoreStrategy.h"
+	"load_config.h"
+	"ctaStrategyTemplate.h"
+	"report.h"
+	"engine.h"
+	"InvestmentProtfolio.h"
+
+1500266463 e:\quant\loopback01\loopback\talib.h
+	<vector>
+	<sstream>
+
+1500338786 e:\quant\loopback01\loopback\tradingresult.h
+	"talib.h"
+	"load_config.h"
+
+1500432881 e:\quant\loopback01\loopback\load_config.h
+	"talib.h"
+
+1500425672 e:\quant\loopback01\loopback\aligatorstrategy.h
+	"load_config.h"
+	"ctaStrategyTemplate.h"
+
+1500425672 e:\quant\loopback01\loopback\ctastrategytemplate.h
+
+1500425672 e:\quant\loopback01\loopback\livermorestrategy.h
+	"load_config.h"
+	"ctaStrategyTemplate.h"
+
+1500338833 e:\quant\loopback01\loopback\report.h
+	"load_config.h"
+	"TradingResult.h"
+	"engine.h"
+	<vector>
+	<algorithm>
+
+1500011129 e:\quant\loopback01\loopback\engine.h
+	"load_config.h"
+	"TradingResult.h"
+	<queue>
+	<ctime>
+	<cstdlib>
+
+1500433692 e:\quant\loopback01\loopback\investmentprotfolio.h
+	"load_config.h"
+	"ctaStrategyTemplate.h"
+

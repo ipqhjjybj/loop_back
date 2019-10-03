@@ -1,0 +1,9 @@
+filename
+start_date end_date
+slippage rate perSize minMovementMultiPriceScale
+fee_type
+3 -->(多少组参数要跑)
+CF CM CS d_CF d_CM d_CS N_up N_down zhisunlv_l zhisunlv_s
+CF CM CS d_CF d_CM d_CS N_up N_down zhisunlv_l zhisunlv_s
+CF CM CS d_CF d_CM d_CS N_up N_down zhisunlv_l zhisunlv_s
+End  -->用来结束的东西
